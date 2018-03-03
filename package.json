@@ -2,10 +2,15 @@
     "name": "bananium-plugin-pack",
     "displayName": "Bananium Plugin Pack",
     "description": "The official BananiumLabs plugin pack for VSCode",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "homepage": "https://github.com/BananiumLabs/VSCode-BananiumPluginPack/blob/master/README.md",
     "publisher": "BananiumLabs",
     "engines": {
         "vscode": "^1.20.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BananiumLabs/VSCode-BananiumPluginPack"
     },
     "categories": [
         "Extension Packs"
