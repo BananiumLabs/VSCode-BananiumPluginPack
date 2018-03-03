@@ -1,0 +1,22 @@
+{
+    "name": "bananium-plugin-pack",
+    "displayName": "Bananium Plugin Pack",
+    "description": "The official BananiumLabs plugin pack for VSCode",
+    "version": "0.0.1",
+    "publisher": "BananiumLabs",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "CoenraadS.bracket-pair-colorizer", 
+        "eg2.tslint", 
+        "ms-vscode.atom-keybindings", 
+        "ms-vscode.csharp", 
+        "PKief.material-icon-theme", 
+        "redhat.java", 
+        "Zignd.html-css-class-completion"
+    ]
+}
