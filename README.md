@@ -13,7 +13,6 @@ and insert a description of the plugin and a link to the marketplace page in the
 ## List of Extensions
 
 ### General
- - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
  - [Atom Keybinds](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
  - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -24,6 +23,7 @@ and insert a description of the plugin and a link to the marketplace page in the
 
 ### Java
  - [RedHat Java Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+ - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 ### Angular
  - [Angular Support](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
@@ -34,3 +34,11 @@ and insert a description of the plugin and a link to the marketplace page in the
  - [FontAwesome Codes](https://marketplace.visualstudio.com/items?itemName=medzhidov.font-awesome-codes-html)
  - [HTML/CSS Language Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) 
  - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+ - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+ - [JS Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+ - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+ #### Node.js and NPM
+ - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+ - [NPM Support for VSCode](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+  - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)

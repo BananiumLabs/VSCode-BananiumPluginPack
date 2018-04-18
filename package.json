@@ -2,7 +2,7 @@
     "name": "bananium-plugin-pack",
     "displayName": "Bananium Plugin Pack",
     "description": "The official BananiumLabs plugin pack for VSCode",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/BananiumLabs/VSCode-BananiumPluginPack/blob/master/README.md",
     "publisher": "BananiumLabs",
     "engines": {
@@ -19,16 +19,23 @@
         "alexiv.vscode-angular2-files",
         "Angular.ng-template",
         "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
         "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
         "ecmel.vscode-html-css",
         "eg2.tslint",
+        "eg2.vscode-npm-script",
+        "jasonnutter.search-node-modules",
         "Leopotam.csharpfixformat",
         "medzhidov.font-awesome-codes-html",
         "ms-vscode.atom-keybindings",
         "ms-vscode.csharp",
+        "ms-vsliveshare.vsliveshare",
         "natewallace.angular2-inline",
         "PKief.material-icon-theme",
         "redhat.java",
+        "vscjava.vscode-maven",
+        "xabikos.JavaScriptSnippets",
         "Zignd.html-css-class-completion"
     ]
 }
