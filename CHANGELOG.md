@@ -3,6 +3,20 @@ All notable changes to the "bananium-plugin-pack" extension pack will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases/tag/1.2.0) - 7 October 2018
+
+### Added Plugins
+
+#### General
+ - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+
+#### Python
+ - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+#### Web (HTML/CSS/JS/TS)
+ - [Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
+ 
+
 ## [1.1.0](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases/tag/1.1.0) - 18 April 2018
 
 ### Added Plugins
