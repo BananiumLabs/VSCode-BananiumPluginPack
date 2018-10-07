@@ -3,7 +3,7 @@ All notable changes to the "bananium-plugin-pack" extension pack will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.1.0](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases/tag/1.1.0) - 18 April 2018
+## [1.2.0](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases/tag/1.2.0) - 7 October 2018
 
 ### Added Plugins
 
