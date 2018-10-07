@@ -11,7 +11,15 @@ If you would like to add a plugin to the pack, commit using the format:
 and insert a description of the plugin and a link to the marketplace page in the extended description. Don't forget to update the Readme as well!
 
 ## Building
-In order to build a release of the plugin pack, you must install the Yeoman VSCode extension generator: `sudo npm install -g yo generator-code`
+In order to build a release of the plugin pack, you must install the Yeoman VSCode extension generator: `sudo npm install -g yo generator-code vsce`
+
+Steps to update:
+1. `yo code`
+2. Input the information found in `package.json` into the prompt for creating a new extension pack.
+3. Copy the new content of the generated `package.json` (only the "extensionPack" area).
+4. Update the README and CHANGELOG with all relevant change information.
+5. Run `vsce package` to create a .vsix file. Don't commit this file.
+6. Publish a new release!
 
 For more information, [click here.](https://code.visualstudio.com/docs/extensions/yocode).
 
