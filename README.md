@@ -10,12 +10,19 @@ If you would like to add a plugin to the pack, commit using the format:
 
 and insert a description of the plugin and a link to the marketplace page in the extended description. Don't forget to update the Readme as well!
 
+## Building
+In order to build a release of the plugin pack, you must install the Yeoman VSCode extension generator: `sudo npm install -g yo generator-code`
+
+For more information, [click here.](https://code.visualstudio.com/docs/extensions/yocode).
+
 ## List of Extensions
 
 ### General
  - [Atom Keybinds](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
  - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+ - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+ - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ### C#
  - [C# Language Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
@@ -37,8 +44,9 @@ and insert a description of the plugin and a link to the marketplace page in the
  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
  - [JS Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
  - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+ - [Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
 
  #### Node.js and NPM
  - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
  - [NPM Support for VSCode](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-  - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+ - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
