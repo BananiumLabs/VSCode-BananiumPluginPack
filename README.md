@@ -3,6 +3,13 @@ Our favorite plugins for our favorite editor :D
 
 Created especially for our team, but you're welcome to use it if it fits your use case as well!
 
+## How to Install
+1. Go to the [Releases](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases)
+2. Download the .vsix binary.
+3. Open VSCode and go to the Extensions tab.
+4. Click the menu button (the 3 dots) and select 'Install from VSIX'. Choose the file you just downloaded.
+5. Enjoy!
+
 ## Committing
 If you would like to add a plugin to the pack, commit using the format:
 
