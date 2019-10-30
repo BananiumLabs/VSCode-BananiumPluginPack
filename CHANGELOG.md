@@ -3,6 +3,16 @@ All notable changes to the "bananium-plugin-pack" extension pack will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+
+## [1.3.0](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases/tag/1.3.0) - 29 October 2019
+
+### Added Plugins
+  - [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+  - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+### Removed Plugins
+  - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) (Deprecated)
+
 ## [1.2.0](https://github.com/BananiumLabs/VSCode-BananiumPluginPack/releases/tag/1.2.0) - 7 October 2018
 
 ### Added Plugins

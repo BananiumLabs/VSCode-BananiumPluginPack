@@ -38,6 +38,8 @@ For more information, [click here.](https://code.visualstudio.com/docs/extension
  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
  - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
  - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+ - [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+ - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
 ### C#
  - [C# Language Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
@@ -55,7 +57,6 @@ For more information, [click here.](https://code.visualstudio.com/docs/extension
 ### Web (HTML/CSS/JS/TS)
  - [FontAwesome Codes](https://marketplace.visualstudio.com/items?itemName=medzhidov.font-awesome-codes-html)
  - [HTML/CSS Language Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) 
- - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
  - [JS Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
  - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
@@ -65,3 +66,6 @@ For more information, [click here.](https://code.visualstudio.com/docs/extension
  - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
  - [NPM Support for VSCode](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
  - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+ ### Python
+ - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
